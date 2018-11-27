@@ -1,4 +1,4 @@
-
+dsfa
 
 华为阿里的
 docker stack deploy -c docker-compose.yml hwtest
@@ -45,7 +45,6 @@ systemctl start docker
  使用阿里云我的加速
 
 aliyun d 
-https://71d9whb7.mirror.aliyuncs.com
 
 您可以通过修改daemon配置文件/etc/docker/daemon.json来使用加速器：
 
